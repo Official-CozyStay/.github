@@ -60,8 +60,8 @@ CozyStay는 사용자에게 최적의 경험을 제공하기 위해 아래의 �
 ## Team Members (팀원 소개)
 
 | 포지션 | 이름 | GitHub | 역할 및 담당 업무 |
-|:---:|:---:|:---:|---|
-| **FullStack** | 박예은 | [@yeni023](https://github.com/yeni023) | 메인페이지, 호스트 숙소 등록 페이지, 사용자 관리 페이지(마이페이지), 즐겨찾기 페이지 |
+|:---:|:-----:|:---:|---|
+| **FrontEnd** | 박예은 | [@yeni023](https://github.com/yeni023) | 메인페이지, 호스트 숙소 등록 페이지, 사용자 관리 페이지(마이페이지), 즐겨찾기 페이지 |
 | **FullStack** | 모정민 | [@mozmin](https://github.com/mozmin) | 검색·필터 기능(지도 API 포함), 사용자/호스트 CRUD 및 등급제도, 숙소/사용자 리뷰 CRUD, 로그인, 로그인 페이지, 회원가입 페이지 |
 | **FullStack** | 소영재 | [@YoungjaeSo](https://github.com/YoungjaeSo) | 메시지(웹소켓), 숙소 CRUD, 즐겨찾기 CRUD, 메시지 페이지 |
 | **FullStack** | 이예인 | [@yeainlee](https://github.com/yeainlee) | 예약 및 결제 기능(TG사 테스트 API), 숙소 상세보기 페이지, 숙소 리뷰 페이지, 결제 페이지, 숙소 사진 상세보기 페이지 |
