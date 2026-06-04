@@ -20,7 +20,7 @@
 
 <br/>
 
-## Core Features (핵심 기능)
+## Core Features
 
 - **지도 기반 숙소 탐색** : 카카오맵 API를 활용하여 원하는 지역의 숙소 위치를 직관적으로 탐색하고 다양한 조건으로 필터링할 수 있습니다.
 - **간편한 예약 및 결제** : **토스페이먼츠(Toss Payments)** 연동을 통해 숙박 날짜 선택부터 결제까지 빠르고 안전한 원스톱 예약 시스템을 제공합니다.
@@ -29,7 +29,7 @@
 
 <br/>
 
-## Tech Stack (기술 스택)
+## Tech Stack
 
 ### Frontend
 - **Framework:** React 19, Vite
@@ -38,9 +38,9 @@
 - **State Management:** Zustand
 - **Network:** Axios, SockJS, STOMP
 
-### Backend (예시)
-- **Framework:** Spring Boot 3.x, Spring Data JPA
-- **Language:** Java 17
+### Backend
+- **Framework:** Spring Boot 3.4.11, Spring Data JPA
+- **Language:** Java 21
 - **Database:** MySQL 8.0
 
 ### Infrastructure & DevOps
@@ -61,10 +61,10 @@ CozyStay는 사용자에게 최적의 경험을 제공하기 위해 아래의 �
 
 | 포지션 | 이름 | GitHub | 역할 및 담당 업무 |
 |:---:|:---:|:---:|---|
-| **Frontend** | 팀원1 | [@github_id](https://github.com/) | 홈 화면, 검색 및 지도 뷰 구현 |
-| **Frontend** | 팀원2 | [@github_id](https://github.com/) | 예약 및 결제 시스템, 상세 페이지 연동 |
-| **Backend** | 팀원3 | [@github_id](https://github.com/) | 인증/인가, 숙소 검색 API, 채팅 웹소켓 구현 |
-| **Backend** | 팀원4 | [@github_id](https://github.com/) | 예약/결제 API 연동, 마이페이지/리뷰 기능 구현 |
+| **FullStack** | 박예은 | [@yeni023](https://github.com/yeni023) | 메인페이지, 호스트 숙소 등록 페이지, 사용자 관리 페이지(마이페이지), 즐겨찾기 페이지 |
+| **FullStack** | 모정민 | [@mozmin](https://github.com/mozmin) | 검색·필터 기능(지도 API 포함), 사용자/호스트 CRUD 및 등급제도, 숙소/사용자 리뷰 CRUD, 로그인, 로그인 페이지, 회원가입 페이지 |
+| **FullStack** | 소영재 | [@YoungjaeSo](https://github.com/YoungjaeSo) | 메시지(웹소켓), 숙소 CRUD, 즐겨찾기 CRUD, 메시지 페이지 |
+| **FullStack** | 이예인 | [@yeainlee](https://github.com/yeainlee) | 예약 및 결제 기능(TG사 테스트 API), 숙소 상세보기 페이지, 숙소 리뷰 페이지, 결제 페이지, 숙소 사진 상세보기 페이지 |
 
 <br/>
 
